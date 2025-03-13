@@ -17,7 +17,7 @@ Feel free to connect with me at:
 ## 🚀 GitHub Status
 
 <p align="center">
-  <[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaswanthraja28&show_icons=true)>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaswanthraja28&show_icons=true" alt="GitHub Stats">
 </p>
 
 ---
@@ -25,7 +25,7 @@ Feel free to connect with me at:
 ## 📊 Most Used Languages
 
 <p align="center">
-  <[Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanthraja28&layout=compact)>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanthraja28&layout=compact" alt="Most Used Languages">
 </p>
 
 ---
@@ -43,7 +43,7 @@ Feel free to connect with me at:
 ## ⚡ Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanthraja28-github&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanthraja28&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
