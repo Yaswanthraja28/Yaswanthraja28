@@ -20,13 +20,6 @@ Feel free to connect with me at:
   <img src="https://github-readme-stats.vercel.app/api?username=Yaswanthraja28&show_icons=true" alt="GitHub Stats">
 </p>
 
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanthraja28&layout=compact" alt="Most Used Languages">
-</p>
 
 ---
 
