@@ -1,5 +1,49 @@
-<img src="https://github.com/user-attachments/assets/174ea8eb-67f1-4e50-a5c0-ff7882a69dfe" width="300"> <img src="https://github.com/user-attachments/assets/4b151d60-78a6-4e3a-9103-357addd0af47" width="300">
+<h1 align="center">Hi, I'm Yaswanth Raja 👋</h1>
 
-[![LeetCode](https://leetcode-badge-showcase.vercel.app/api?username=Yaswant_raja2&theme=dark)](https://leetcode.com/u/Yaswant_raja2/)
-[![LeetCode](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B93E&center=true&vCenter=true&width=300&lines=Solving+LeetCode+Daily!;100%2B+Problems+Solved!)](https://leetcode.com/u/Yaswant_raja2/)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Yaswant_raja2?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Yaswant_raja2/)
+I believe that **Collaboration fuels innovation**. Let's expand our nets and amplify our worth.  
+Feel free to connect with me at:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:yaswanthraja47@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+## 🚀 GitHub Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaswanthraja28-github&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanthraja28-github&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
+---
+
+## 🔥 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/Yaswant_raja2/">
+    <img src="https://leetcard.jacoblin.cool/Yaswant_raja2?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats">
+  </a>
+</p>
+
+---
+
+## ⚡ Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanthraja28-github&theme=radical" alt="GitHub Streak">
+</p>
+
+---
