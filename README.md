@@ -25,7 +25,7 @@ Feel free to connect with me at:
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yaswanthraja28&theme=github_dark" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanthraja28&layout=compact" alt="Most Used Languages">
 </p>
 
 ---
@@ -36,14 +36,6 @@ Feel free to connect with me at:
   <a href="https://leetcode.com/u/Yaswant_raja2/">
     <img src="https://leetcard.jacoblin.cool/Yaswant_raja2?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats">
   </a>
-</p>
-
----
-
-## ⚡ Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanthraja28&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
