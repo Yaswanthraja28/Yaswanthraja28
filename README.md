@@ -25,7 +25,7 @@ Feel free to connect with me at:
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanthraja28&layout=compact" alt="Most Used Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yaswanthraja28&theme=github_dark" alt="Most Used Languages">
 </p>
 
 ---
